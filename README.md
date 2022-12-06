@@ -1,2 +1,2 @@
-# wild-Merge-Conflits
+LOCAL
 it's a challenge of the wild code school.
